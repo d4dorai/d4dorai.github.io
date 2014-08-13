@@ -19,7 +19,8 @@ _At the end of 2001, the Indian Supreme Court issued a directive ordering states
 
 **Technologies:**  Stata, Latex. 
 
-In this repository you can find some Stata sample code: (https://github.com/d4dorai/Stata-Code)
+See some sample Stata code from this project: 
+https://github.com/d4dorai/Stata-Code
 
 
 ### Entrepreneurship in the Transition Region
@@ -47,6 +48,9 @@ _Using the 2010 Life in Transition Survey, this paper studies the association be
 
 **Technologies:** Stata, Latex.
 
+See some sample Stata code from this project: 
+https://github.com/d4dorai/Stata-Code
+
 ### Hedging of Weather Risks
 
 During an internship at the Matheon in Berlin I worked on predicting the probability that a hurricane will hit the US East Coast.
@@ -65,9 +69,11 @@ Commerce and research are being transformed by data-driven discovery and predict
 
 &#8618; [Course Page](https://www.coursera.org/course/datasci)
 
-See my Python code for solving the assignments: https://github.com/d4dorai/Python-Examples
+See my **Python** code for solving the assignments: 
+https://github.com/d4dorai/Python-Examples
 
-See my SQL code for solving the assignments: https://github.com/d4dorai/SQL-code
+See my **SQL** code for solving the assignments: 
+https://github.com/d4dorai/SQL-code
 
 * Tableau
 
@@ -79,7 +85,8 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 &#8618; [Course Page](https://www.coursera.org/course/ml)
 
-See my Octave code for solving the assignments: https://github.com/d4dorai/Machine-Learning-with-Octave
+See my **Octave** code for solving the assignments:
+https://github.com/d4dorai/Machine-Learning-with-Octave
 
 
 ### R Programming
@@ -88,6 +95,7 @@ In this course you will learn how to program in R and how to use R for effective
 
 &#8618; [Course Page](https://www.coursera.org/course/rprog)
 
-See my R code for solving the assignments: https://github.com/d4dorai/R-Programming
+See my **R** code for solving the assignments:
+https://github.com/d4dorai/R-Programming
 
 
