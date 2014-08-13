@@ -75,7 +75,7 @@ https://github.com/d4dorai/Python-Examples
 See my **SQL** code for solving the assignments: 
 https://github.com/d4dorai/SQL-code
 
-* Tableau
+See my **Tableau** Dashboard for the course [here](http://public.tableausoftware.com/profile/dora1373#!/vizhome/ExpensiveSpecies/6_CustomDashboard)
 
 ### Machine Learning
 
