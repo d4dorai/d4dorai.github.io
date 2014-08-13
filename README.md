@@ -17,9 +17,9 @@ _At the end of 2001, the Indian Supreme Court issued a directive ordering states
 
 **The Data** comes from [DISE](http://www.dise.in/). It is very large as compared to the typical datasets used in most Econometrics studies. Its size is around 39 GB and it is spread over 150 files.
 
-**Technologies:**  Stata, Latex. 
+**Technologies:**  **Stata**, **Latex**. 
 
-See some sample Stata code from this project: 
+See some sample **Stata** code from this project: 
 https://github.com/d4dorai/Stata-Code
 
 
@@ -34,7 +34,7 @@ development of a market economy in transition countries. LiTS data reveal that ï
 
 **Data:** [Life in Transtion Survey II](http://www.ebrd.com/pages/research/publications/special/transitionII.shtml)
 
-**Technologies:** Stata, Excel, VBA for Excel Macros.
+**Technologies:** **Stata**, **Excel**, **VBA** for Excel Macros.
 
 ### Entrepreneurship and Diversity
 
@@ -46,9 +46,9 @@ _Using the 2010 Life in Transition Survey, this paper studies the association be
 
 **Data:** [Life in Transtion Survey II](http://www.ebrd.com/pages/research/publications/special/transitionII.shtml)
 
-**Technologies:** Stata, Latex.
+**Technologies:** **Stata**, **Latex**.
 
-See some sample Stata code from this project: 
+See some sample **Stata** code from this project: 
 https://github.com/d4dorai/Stata-Code
 
 ### Hedging of Weather Risks
@@ -57,7 +57,7 @@ During an internship at the Matheon in Berlin I worked on predicting the probabi
 
 You can see a presentation of the bigger project I was part of [here](http://mfktai.icm.edu.pl/presentations/Ankirchner.pdf).
 
-**Technologies**: R.
+**Technologies**: **R**.
 
 ## Coursera Courses
 
