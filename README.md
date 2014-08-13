@@ -47,28 +47,47 @@ _Using the 2010 Life in Transition Survey, this paper studies the association be
 
 **Technologies:** Stata, Latex.
 
+### Hedging of Weather Risks
+
+During an internship at the Matheon in Berlin I worked on predicting the probability that a hurricane will hit the US East Coast.
+
+You can see a presentation of the bigger project I was part of [here](http://mfktai.icm.edu.pl/presentations/Ankirchner.pdf).
+
+**Technologies**: R.
+
 ## Coursera Courses
+
+Here is a selection of Coursera courses that I participated in:
 
 ### Introduction to Data Science
 
+Commerce and research are being transformed by data-driven discovery and prediction. Skills required for data analytics at massive levels – scalable data management on and off the cloud, parallel algorithms, statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span a variety of disciplines and are not easy to obtain through conventional curricula. Tour the basic techniques of data science, including both SQL and NoSQL solutions for massive data management (e.g., MapReduce and contemporaries), algorithms for data mining (e.g., clustering and association rule mining), and basic statistical modeling (e.g., linear and non-linear regression).
+
 &#8618; [Course Page](https://www.coursera.org/course/datasci)
 
-* Python
+See my Python code for solving the assignments: https://github.com/d4dorai/Python-Examples
 
-* SQL
+See my SQL code for solving the assignments: https://github.com/d4dorai/SQL-code
 
 * Tableau
 
 ### Machine Learning
 
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+
 &#8618; [Course Page](https://www.coursera.org/course/ml)
 
-* Octave
+See my Octave code for solving the assignments: https://github.com/d4dorai/Machine-Learning-with-Octave
 
-* R
 
 ### R Programming
 
+In this course you will learn how to program in R and how to use R for effective data analysis. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
+
 &#8618; [Course Page](https://www.coursera.org/course/rprog)
+
+See my R code for solving the assignments: https://github.com/d4dorai/R-Programming
 
 
