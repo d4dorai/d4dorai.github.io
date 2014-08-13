@@ -51,7 +51,7 @@ _Using the 2010 Life in Transition Survey, this paper studies the association be
 
 ### Introduction to Data Science
 
-&#8618; [Coursera course](https://www.coursera.org/course/datasci)
+&#8618; [Course Page](https://www.coursera.org/course/datasci)
 
 * Python
 
@@ -61,11 +61,14 @@ _Using the 2010 Life in Transition Survey, this paper studies the association be
 
 ### Machine Learning
 
+&#8618; [Course Page](https://www.coursera.org/course/ml)
+
 * Octave
 
 * R
 
 ### R Programming
 
+&#8618; [Course Page](https://www.coursera.org/course/rprog)
 
 
