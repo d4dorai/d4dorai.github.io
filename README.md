@@ -15,7 +15,7 @@ _At the end of 2001, the Indian Supreme Court issued a directive ordering states
 
 **In the News:** The findings of this paper are mentioned in [The Guardian](http://www.theguardian.com/global-development/poverty-matters/2013/jul/19/indian-school-lunch-deaths-midday-meals) as well as in [The Times of India](http://epaper.timesofindia.com/Default/Scripting/ArticleWin.asp?From=Archive&Source=Page&Skin=TOINEW&BaseHref=CAP%2F2010%2F07%2F26&ViewMode=HTML&PageLabel=38&EntityId=Ar03801&AppName=1). 
 
-**The Data** comes from [DISE](http://www.dise.in/). It is very large as compared to the typical datasets used in most Econometrics studies. Its size is around 39 GB and it is spread over 150 files.
+**The Data** comes from [DISE](http://www.dise.in/). School data from around 80% of all primary schools in India observed over 3 academic years. It is very large as compared to the typical datasets used in most Econometrics studies. Its size is around 39 GB and it is spread over 150 files with a total row count of over 111 Million. 
 
 **Technologies:**  **Stata**, **Latex**. 
 
@@ -62,13 +62,20 @@ During an internship at the Matheon in Berlin I worked on predicting the probabi
 
 You can see a presentation of the bigger project I was part of [here](http://mfktai.icm.edu.pl/presentations/Ankirchner.pdf).
 
-**Technologies**: **R**.
+**Technologies**: **R**
 
 **Methods:** Linear Regression
 
 ### Bachelor Thesis
 
+Optimal Investment Decision-Making in Power Networks over Space and Time
 
+**Technologies:** **Matlab**
+
+See my **Matlab** code: 
+
+
+**Methods:** Dynamic Programming
 
 ## Coursera Courses
 
