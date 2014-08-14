@@ -5,7 +5,7 @@ This is a summary of projects and courses involving technology that I did over t
 
 ###  Midday Meals in India
 
-The final result of this project is a published paper. An older version of the paper is available online [here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1969396). This version has been revised and extended and will be soon forthcoming in the Scandinavian Journal of Economics. It is also Chapter 1 of my PhD Thesis.
+The final result of this project is a published paper. An older version of the paper is available online [here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1969396). This version has been revised and extended and will be soon forthcoming in the Scandinavian Journal of Economics (and therefore cannot upload here due to transfer of copyright). It is also Chapter 1 of my PhD Thesis.
 
 
 **Abstract:**
@@ -22,6 +22,7 @@ _At the end of 2001, the Indian Supreme Court issued a directive ordering states
 See some sample **Stata** code from this project: 
 https://github.com/d4dorai/Stata-Code
 
+**Methods:** Quasi-natural experiment, Difference-in-Differences, Propensity Score Matching, Coarsened Exact Matching, Bootstrapping of s.e., Placebo tests
 
 ### Entrepreneurship in the Transition Region
 
@@ -34,7 +35,9 @@ development of a market economy in transition countries. LiTS data reveal that ï
 
 **Data:** [Life in Transtion Survey II](http://www.ebrd.com/pages/research/publications/special/transitionII.shtml)
 
-**Technologies:** **Stata**, **Excel**, **VBA** for Excel Macros.
+**Technologies:** **Stata**, **Excel**, **VBA** for Excel Macros
+
+**Methods :** Probability Linear Regression, Fixed Effects, Heckman Selection Model, Case Study
 
 ### Entrepreneurship and Diversity
 
@@ -46,7 +49,9 @@ _Using the 2010 Life in Transition Survey, this paper studies the association be
 
 **Data:** [Life in Transtion Survey II](http://www.ebrd.com/pages/research/publications/special/transitionII.shtml)
 
-**Technologies:** **Stata**, **Latex**.
+**Technologies:** **Stata**, **Latex**
+
+**Methods:** Logistic Regression, Probit Regression, Fixed Effects, Heckman Selection Model, Interaction Terms
 
 See some sample **Stata** code from this project: 
 https://github.com/d4dorai/Stata-Code
@@ -59,6 +64,12 @@ You can see a presentation of the bigger project I was part of [here](http://mfk
 
 **Technologies**: **R**.
 
+**Methods:** Linear Regression
+
+### Bachelor Thesis
+
+
+
 ## Coursera Courses
 
 Here is a selection of Coursera courses that I participated in:
@@ -69,11 +80,18 @@ Commerce and research are being transformed by data-driven discovery and predict
 
 &#8618; [Course Page](https://www.coursera.org/course/datasci)
 
+  * Twitter Sentiment Analysis
+  * Friend Count with MapReduce
+
 See my **Python** code for solving the assignments: 
 https://github.com/d4dorai/Python-Examples
 
+  * Reuters Database Text Analytics
+  
 See my **SQL** code for solving the assignments: 
 https://github.com/d4dorai/SQL-code
+
+  * Tableau Birdstrikes Tutorial
 
 See my **Tableau** Dashboard for the course [here](http://public.tableausoftware.com/profile/dora1373#!/vizhome/ExpensiveSpecies/6_CustomDashboard)
 
@@ -85,6 +103,13 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 &#8618; [Course Page](https://www.coursera.org/course/ml)
 
+  * Linear Regression with multiple variables
+  * Regularization
+  * Neural Networks Representation
+  * Neural Networks Learning
+  * Regularized Linear Regression Bias VS Variance
+  * Support Vector Machines
+
 See my **Octave** code for solving the assignments:
 https://github.com/d4dorai/Machine-Learning-with-Octave
 
@@ -94,6 +119,10 @@ https://github.com/d4dorai/Machine-Learning-with-Octave
 In this course you will learn how to program in R and how to use R for effective data analysis. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
 
 &#8618; [Course Page](https://www.coursera.org/course/rprog)
+
+  * Air Pollution
+  * Hospital Quality
+  * Lexical Scooping
 
 See my **R** code for solving the assignments:
 https://github.com/d4dorai/R-Programming
