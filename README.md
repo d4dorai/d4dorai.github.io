@@ -115,7 +115,13 @@ This course provides a broad introduction to machine learning, datamining, and s
   * Neural Networks Representation
   * Neural Networks Learning
   * Regularized Linear Regression Bias VS Variance
+  * Machine Learning System Design
   * Support Vector Machines
+  * Clustering
+  * Dimensionality Reduction
+  * Anomaly Detection
+  * Recommender Systems
+  * Large Scale Machine Learning
 
 See my **Octave** code for solving the assignments:
 https://github.com/d4dorai/Machine-Learning-with-Octave
